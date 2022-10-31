@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart Item Component should match snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`cart-item component should match snapshot 1`] = `ShallowWrapper {}`;
